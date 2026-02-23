@@ -1,0 +1,355 @@
+[
+  {
+    "name": "Avengers Endgame",
+    "cat": "movies",
+    "tag": "marvel",
+    "img": "https://picsum.photos/300/200?1",
+    "link": "#"
+  },
+  {
+    "name": "KGF Chapter 2",
+    "cat": "movies",
+    "tag": "action",
+    "img": "https://picsum.photos/300/200?2",
+    "link": "#"
+  },
+  {
+    "name": "Naruto",
+    "cat": "anime",
+    "tag": "action",
+    "img": "https://picsum.photos/300/200?3",
+    "link": "#"
+  },
+  {
+    "name": "Attack on Titan",
+    "cat": "anime",
+    "tag": "dark",
+    "img": "https://picsum.photos/300/200?4",
+    "link": "#"
+  },
+  {
+    "name": "Jawan",
+    "cat": "movies",
+    "tag": "bollywood",
+    "img": "https://picsum.photos/300/200?5",
+    "link": "#"
+  },
+  {
+    "name": "Pathaan",
+    "cat": "movies",
+    "tag": "spy",
+    "img": "https://picsum.photos/300/200?6",
+    "link": "#"
+  },
+  {
+    "name": "Demon Slayer",
+    "cat": "anime",
+    "tag": "fantasy",
+    "img": "https://picsum.photos/300/200?7",
+    "link": "#"
+  },
+  {
+    "name": "Spider Man No Way Home",
+    "cat": "movies",
+    "tag": "marvel",
+    "img": "https://picsum.photos/300/200?8",
+    "link": "#"
+  },
+  {
+    "name": "John Wick 4",
+    "cat": "movies",
+    "tag": "action",
+    "img": "https://picsum.photos/300/200?9",
+    "link": "#"
+  },
+  {
+    "name": "Interstellar",
+    "cat": "movies",
+    "tag": "sci-fi",
+    "img": "https://picsum.photos/300/200?10",
+    "link": "#"
+  },
+  {
+    "name": "Inception",
+    "cat": "movies",
+    "tag": "thriller",
+    "img": "https://picsum.photos/300/200?11",
+    "link": "#"
+  },
+  {
+    "name": "Money Heist",
+    "cat": "series",
+    "tag": "crime",
+    "img": "https://picsum.photos/300/200?12",
+    "link": "#"
+  },
+  {
+    "name": "Stranger Things",
+    "cat": "series",
+    "tag": "mystery",
+    "img": "https://picsum.photos/300/200?13",
+    "link": "#"
+  },
+  {
+    "name": "The Batman",
+    "cat": "movies",
+    "tag": "dc",
+    "img": "https://picsum.photos/300/200?14",
+    "link": "#"
+  },
+  {
+    "name": "Black Panther",
+    "cat": "movies",
+    "tag": "marvel",
+    "img": "https://picsum.photos/300/200?15",
+    "link": "#"
+  },
+  {
+    "name": "Thor Ragnarok",
+    "cat": "movies",
+    "tag": "marvel",
+    "img": "https://picsum.photos/300/200?16",
+    "link": "#"
+  },
+  {
+    "name": "One Piece",
+    "cat": "anime",
+    "tag": "adventure",
+    "img": "https://picsum.photos/300/200?17",
+    "link": "#"
+  },
+  {
+    "name": "Dragon Ball Super",
+    "cat": "anime",
+    "tag": "action",
+    "img": "https://picsum.photos/300/200?18",
+    "link": "#"
+  },
+  {
+    "name": "Oppenheimer",
+    "cat": "movies",
+    "tag": "drama",
+    "img": "https://picsum.photos/300/200?19",
+    "link": "#"
+  },
+  {
+    "name": "Fast X",
+    "cat": "movies",
+    "tag": "racing",
+    "img": "https://picsum.photos/300/200?20",
+    "link": "#"
+  },
+
+  {
+    "name": "The Flash",
+    "cat": "movies",
+    "tag": "dc",
+    "img": "https://picsum.photos/300/200?21",
+    "link": "#"
+  },
+  {
+    "name": "Blue Beetle",
+    "cat": "movies",
+    "tag": "dc",
+    "img": "https://picsum.photos/300/200?22",
+    "link": "#"
+  },
+  {
+    "name": "RRR",
+    "cat": "movies",
+    "tag": "south",
+    "img": "https://picsum.photos/300/200?23",
+    "link": "#"
+  },
+  {
+    "name": "Pushpa",
+    "cat": "movies",
+    "tag": "south",
+    "img": "https://picsum.photos/300/200?24",
+    "link": "#"
+  },
+  {
+    "name": "Squid Game",
+    "cat": "series",
+    "tag": "thriller",
+    "img": "https://picsum.photos/300/200?25",
+    "link": "#"
+  },
+  {
+    "name": "Vikram",
+    "cat": "movies",
+    "tag": "action",
+    "img": "https://picsum.photos/300/200?26",
+    "link": "#"
+  },
+  {
+    "name": "Bahubali",
+    "cat": "movies",
+    "tag": "epic",
+    "img": "https://picsum.photos/300/200?27",
+    "link": "#"
+  },
+  {
+    "name": "Loki",
+    "cat": "series",
+    "tag": "marvel",
+    "img": "https://picsum.photos/300/200?28",
+    "link": "#"
+  },
+  {
+    "name": "WandaVision",
+    "cat": "series",
+    "tag": "marvel",
+    "img": "https://picsum.photos/300/200?29",
+    "link": "#"
+  },
+  {
+    "name": "The Boys",
+    "cat": "series",
+    "tag": "dark",
+    "img": "https://picsum.photos/300/200?30",
+    "link": "#"
+  },
+
+  {
+    "name": "Deadpool",
+    "cat": "movies",
+    "tag": "marvel",
+    "img": "https://picsum.photos/300/200?31",
+    "link": "#"
+  },
+  {
+    "name": "Venom",
+    "cat": "movies",
+    "tag": "marvel",
+    "img": "https://picsum.photos/300/200?32",
+    "link": "#"
+  },
+  {
+    "name": "Hulk",
+    "cat": "movies",
+    "tag": "marvel",
+    "img": "https://picsum.photos/300/200?33",
+    "link": "#"
+  },
+  {
+    "name": "Iron Man",
+    "cat": "movies",
+    "tag": "marvel",
+    "img": "https://picsum.photos/300/200?34",
+    "link": "#"
+  },
+  {
+    "name": "Captain America",
+    "cat": "movies",
+    "tag": "marvel",
+    "img": "https://picsum.photos/300/200?35",
+    "link": "#"
+  },
+  {
+    "name": "Black Widow",
+    "cat": "movies",
+    "tag": "marvel",
+    "img": "https://picsum.photos/300/200?36",
+    "link": "#"
+  },
+  {
+    "name": "Justice League",
+    "cat": "movies",
+    "tag": "dc",
+    "img": "https://picsum.photos/300/200?37",
+    "link": "#"
+  },
+  {
+    "name": "Aquaman",
+    "cat": "movies",
+    "tag": "dc",
+    "img": "https://picsum.photos/300/200?38",
+    "link": "#"
+  },
+  {
+    "name": "Shazam",
+    "cat": "movies",
+    "tag": "dc",
+    "img": "https://picsum.photos/300/200?39",
+    "link": "#"
+  },
+  {
+    "name": "The Dark Knight",
+    "cat": "movies",
+    "tag": "dc",
+    "img": "https://picsum.photos/300/200?40",
+    "link": "#"
+  },
+
+  {
+    "name": "Tokyo Revengers",
+    "cat": "anime",
+    "tag": "action",
+    "img": "https://picsum.photos/300/200?41",
+    "link": "#"
+  },
+  {
+    "name": "Jujutsu Kaisen",
+    "cat": "anime",
+    "tag": "fantasy",
+    "img": "https://picsum.photos/300/200?42",
+    "link": "#"
+  },
+  {
+    "name": "Chainsaw Man",
+    "cat": "anime",
+    "tag": "dark",
+    "img": "https://picsum.photos/300/200?43",
+    "link": "#"
+  },
+  {
+    "name": "Bleach",
+    "cat": "anime",
+    "tag": "action",
+    "img": "https://picsum.photos/300/200?44",
+    "link": "#"
+  },
+  {
+    "name": "Death Note",
+    "cat": "anime",
+    "tag": "thriller",
+    "img": "https://picsum.photos/300/200?45",
+    "link": "#"
+  },
+  {
+    "name": "Breaking Bad",
+    "cat": "series",
+    "tag": "crime",
+    "img": "https://picsum.photos/300/200?46",
+    "link": "#"
+  },
+  {
+    "name": "Peaky Blinders",
+    "cat": "series",
+    "tag": "drama",
+    "img": "https://picsum.photos/300/200?47",
+    "link": "#"
+  },
+  {
+    "name": "The Witcher",
+    "cat": "series",
+    "tag": "fantasy",
+    "img": "https://picsum.photos/300/200?48",
+    "link": "#"
+  },
+  {
+    "name": "House of the Dragon",
+    "cat": "series",
+    "tag": "epic",
+    "img": "https://picsum.photos/300/200?49",
+    "link": "#"
+  },
+  {
+    "name": "Game of Thrones",
+    "cat": "series",
+    "tag": "epic",
+    "img": "https://picsum.photos/300/200?50",
+    "link": "#"
+  }
+]
